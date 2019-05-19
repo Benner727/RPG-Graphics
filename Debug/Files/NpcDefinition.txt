@@ -1,0 +1,117 @@
+0 "Crawling hand" 8 16 1 2 0 4 8 4 CrawlingHand.png
+1 "Crawling hand" 12 19 2 2 0 4 11 7 CrawlingHand.png
+2 "Cave bug" 6 5 1 2 0 4 6 6 CaveBug.png
+3 "Cave bug" 96 93 9 2 0 4 82 84 CaveBug.png
+4 "Cave crawler" 23 24 3 2 0 4 22 18 CaveCrawler.png
+5 "Banshee" 23 22 2 2 2 4 22 22 Banshee.png
+6 "Cave slime" 23 25 2 1 0 4 13 35 CaveSlime.png
+7 "Rockslug" 29 27 4 2 0 4 22 27 RockSlug.png
+8 "Desert lizard" 24 25 3 1 0 4 20 20 DesertLizard.png
+9 "Cockatrice" 37 37 5 1 0 4 22 37 Cockatrice.png
+10 "Pyrefiend" 43 45 4 2 2 4 52 22 Pyrefriend.png
+11 "Mogre" 60 48 8 0 0 6 58 48 Mogre.png
+12 "Harpie bug swarm" 46 25 6 2 0 4 54 32 HarpieBugSwarm.png
+13 "Wall beast" 49 105 4 2 0 4 30 16 WallBeast.png
+14 "Killerwatt" 55 51 6 0 1 2 50 40 KillerWatt.png
+15 "Molanisk" 51 52 5 2 0 4 40 50 Molanisk.png
+16 "Basilisk" 61 75 5 1 0 4 30 75 Basilisk.png
+17 "Terror dog" 100 82 11 2 0 4 100 74 TerrorDog.png
+18 "Fever spider" 49 40 4 0 0 4 60 40 FeverSpider.png
+19 "Infernal mage" 66 60 8 0 2 4 75 60 InfernalMage.png
+20 "Brine rat" 70 50 9 2 0 4 70 40 BrineRat.png
+21 "Bloodveld" 76 120 5 2 0 4 75 30 Bloodveld.png
+22 "Jelly" 78 75 6 1 2 4 45 120 Jelly.png
+23 "Turoth" 83 76 10 0 0 4 53 83 Turoth.png
+24 "Mutated Zygomite" 74 65 9 0 2 4 65 65 MutatedZygomite.png
+25 "Cave horror" 80 55 9 1 0 4 80 62 CaveHorror.png
+26 "Aberrant spectre" 96 90 11 1 2 4 105 90 AberramtSpectre.png
+27 "Spiritual ranger" 127 89 16 1 1 3 150 130 SpiritualRanger.png
+28 "Dust devil" 93 105 8 1 0 4 105 40 DustDevil.png
+29 "Spiritual warrior" 134 131 16 2 0 5 116 100 SpiritualWarrior.png
+30 "Kurask" 106 97 11 0 0 4 67 105 Kurask.png
+31 "Skeletal wyvern" 140 210 13 0 0 6 125 120 SkeletalWyvern.png
+32 "Gargoyle" 111 105 11 0 0 4 75 107 Gargoyle.png
+33 "Nechryael" 115 105 11 2 0 4 97 105 Nechryael.png
+34 "Spritual mage" 121 75 19 1 2 4 180 61 SpiritualMage.png
+35 "Abyssal demon" 124 150 8 2 0 4 97 135 AbyssalDemon.png
+36 "Dark beast" 182 220 17 0 0 4 140 120 DarkBeast.png
+37 "Smoke devil" 160 185 20 0 1 4 195 275 SmokeDevil.png
+38 "Chicken" 1 3 1 0 0 4 0 0 Chicken.png
+39 "Cow" 2 8 1 2 0 4 1 1 Cow.png
+40 "Giant rat" 3 5 3 1 0 4 1 1 GiantRat.png
+41 "Bat" 6 8 2 1 0 4 2 2 Bat.png
+42 "Giant bat" 27 32 3 1 0 4 22 22 GiantBat.png
+43 "Black bear" 19 25 3 2 0 6 15 13 BlackBear.png
+44 "Goblin" 2 3 1 2 0 4 1 1 Goblin.png
+45 "Hobgoblin" 42 49 6 0 0 4 22 24 Hobgoblin.png
+46 "Ghost" 19 27 4 2 0 4 12 14 Ghost.png
+47 "Skeleton" 22 29 3 2 0 6 15 17 Skeleton.png
+48 "Zombie" 24 30 3 2 0 5 19 16 Zombie.png
+49 "Dwarf" 10 16 2 2 0 5 8 6 Dwarf.png
+50 "Chaos dwarf" 48 61 6 1 0 4 38 28 ChaosDwarf.png
+51 "Scorpion" 14 17 2 1 0 6 11 11 Scorpion.png
+52 "White wolf" 38 45 6 0 0 4 30 21 WhiteWolf.png
+53 "Icefiend" 13 15 2 0 2 6 10 12 IceFiend.png
+54 "Ice warrior" 57 59 6 0 0 4 47 47 IceWarrior.png
+55 "Ice giant" 53 70 7 2 0 5 40 40 IceGiant.png
+56 "Vampire" 61 40 7 0 0 4 51 51 Vampire.png
+57 "Werewolf" 88 100 8 0 0 6 70 70 Werewolf.png
+58 "Hill giant" 28 35 4 2 0 4 18 26 HillGiant.png
+59 "Moss giant" 42 60 11 2 0 6 30 30 MossGiant.png
+60 "Ogre" 53 60 7 1 0 7 43 43 Ogre.png
+61 "Gorak" 145 115 14 2 0 4 130 131 Gorak.png
+62 "Fire giant" 86 111 11 2 0 5 65 65 FireGiant.png
+63 "Lesser demon" 82 81 8 2 0 4 68 71 LesserDemon.png
+64 "Greater demon" 92 87 10 2 0 4 76 81 GreaterDemon.png
+65 "Black demon" 172 157 18 2 0 4 148 148 BlackDemon.png
+66 "TzHaar-Ket" 149 140 15 2 0 4 120 120 TzHaar-Ket.png
+67 "TzHaar-Xil" 133 120 12 2 0 4 140 100 TzHaar-Xil.png
+68 "TzHaar-Mej" 103 100 13 1 2 5 120 80 TzHaar-Mej.png
+69 "TzHaar-Hur" 74 80 9 1 0 5 60 60 TzHaar-Hur.png
+70 "Green dragon" 79 75 8 1 0 4 68 68 GreenDragon.png
+71 "Blue dragon" 111 105 10 1 0 4 95 95 BlueDragon.png
+72 "Red dragon" 152 140 14 1 0 6 130 130 RedDragon.png
+73 "Black dragon" 227 190 21 1 0 6 200 200 BlackDragon.png
+74 "Bronze dragon" 131 122 12 2 0 4 112 112 BronzeDragon.png
+75 "Iron dragon" 189 165 17 2 0 4 165 165 IronDragon.png
+76 "Steel dragon" 246 210 22 2 0 4 215 215 SteelDragon.png
+77 "Mithril dragon" 304 255 28 2 0 4 268 268 MithrilDragon.png
+78 "Terrorbird" 28 34 3 0 0 6 23 19 TerrorBird.png
+79 "Jackal" 21 27 3 2 0 4 17 15 Jackal.png
+80 "Wild dog" 63 62 6 2 0 4 53 54 WildDog.png
+81 "Kalphite worker" 28 40 3 0 0 3 20 20 KalphiteWorker.png
+82 "Kalphite soldier" 85 90 8 0 0 4 70 70 KalphiteSoldier.png
+83 "Kalphite guardian" 141 171 12 0 0 6 110 110 KalphiteGuardian.png
+84 "Monkey" 3 6 2 1 0 4 2 2 Monkey.png
+85 "Monkey guard" 167 130 14 0 0 4 130 200 MonkeyGuard.png
+86 "Monkey archer" 86 50 20 2 1 4 110 80 MonkeyArcher.png
+87 "Deadly red spider" 34 35 3 0 0 6 30 30 DeadlyRedSpider.png
+88 "Shadow spider" 52 55 5 2 0 4 44 44 ShadowSpider.png
+89 "Catablepon" 49 40 7 2 0 4 45 40 Catablepon.png
+90 "Earth warrior" 51 54 5 0 0 4 42 42 EarthWarrior.png
+91 "Flesh crawler" 35 25 1 2 0 3 80 10 FleshCrawler.png
+92 "Minotaur" 27 22 3 2 0 4 23 25 Minotaur.png
+93 "Ghoul" 42 50 5 2 0 6 30 30 Ghoul.png
+94 "Shade" 159 170 14 2 0 6 130 130 Shade.png
+95 "Ankou" 82 65 8 2 0 4 80 70 Ankou.png
+96 "Crocodile" 63 62 6 0 0 4 53 54 Crocodile.png
+97 "Barbarian" 9 18 3 2 0 4 8 3 Barbarian.png
+98 "Hellhound" 122 116 11 0 0 4 105 102 Hellhound.png
+99 "Shadow warrior" 48 67 6 2 0 4 36 33 ShadowWarrior.png
+100 "Rock crab" 13 50 1 0 0 6 1 1 RockCrab.png
+101 "Troll" 120 100 21 2 0 4 100 120 Troll.png
+102 "Aviansie" 69 70 8 2 1 4 71 70 Aviansie.png
+103 "Dagannoth" 88 85 11 0 1 3 100 75 Dagannoth.png
+104 "Waterfiend" 115 128 12 0 2 4 105 128 Waterfiend.png
+105 "Lava dragon" 252 230 23 2 0 4 240 220 LavaDragon.png
+106 "Abyssal leech" 41 10 2 1 0 1 95 25 AbyssalLeech.png
+107 "Abyssal guardian" 59 55 11 1 2 4 30 30 AbyssalGuardian.png
+108 "Abyssal walker" 81 95 13 0 0 5 5 95 AbyssalWalker.png
+109 "Goat" 33 28 6 0 0 4 31 29 Goat.png
+110 "Wizard" 9 14 6 1 2 3 5 5 Wizard.png
+111 "Ent" 101 105 10 2 0 4 80 75 Ent.png
+112 "Salarin the Twisted" 70 70 7 2 0 6 58 62 SalarinTheTwisted.png
+113 "Dagannoth Prime" 303 255 50 1 2 4 255 255 DagannothPrime.png
+114 "Dagannoth Rex" 303 255 26 2 0 4 255 255 DagannothRex.png
+115 "Dagannoth Supreme" 303 255 30 0 1 4 255 255 DagannothSupreme.png
+116 "Kalphite Queen" 333 255 31 0 1 4 300 300 KalphiteQueen.png

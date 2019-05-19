@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Entities">
+      <UniqueIdentifier>{ad34cb7c-870a-4438-a05e-5146dcf0ec3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers">
+      <UniqueIdentifier>{e74082e7-adda-4177-8ced-30be9f14daea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Entities">
+      <UniqueIdentifier>{74b92078-1e29-4b75-a84c-638b3146eec5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers">
+      <UniqueIdentifier>{91a370a1-de74-4261-95f5-39cde5569c76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens">
+      <UniqueIdentifier>{e027d2fc-d97a-4e8b-b3fd-e71ee3d9bf56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Screens">
+      <UniqueIdentifier>{082e0298-4210-4419-a560-da58ec11b769}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game">
+      <UniqueIdentifier>{87d9d0e7-221c-4297-882e-10cf95ddc9fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game">
+      <UniqueIdentifier>{08b5546e-d973-44cf-b25a-8cad0a0797ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Definitions">
+      <UniqueIdentifier>{95303d00-b81a-45e0-b37e-0c7522c765f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Player">
+      <UniqueIdentifier>{2bd87879-8bbc-4560-a2e8-210a5121fc84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Player">
+      <UniqueIdentifier>{7562247a-fe42-4758-b026-c0b9dee0e2f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Combat">
+      <UniqueIdentifier>{ab39d7db-de3d-405c-9f76-8fd6914b2cb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Combat">
+      <UniqueIdentifier>{2e963004-bb89-454e-9d54-e6f8eea415e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Skills">
+      <UniqueIdentifier>{6e9982d0-791d-4a02-93ab-9194ca76dd1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Skills">
+      <UniqueIdentifier>{e0495165-e4eb-4430-aef0-0ba396062d00}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatedTexture.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEntity.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginScreen.cpp">
+      <Filter>Source Files\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="EscapeMenu.cpp">
+      <Filter>Source Files\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerHUD.cpp">
+      <Filter>Source Files\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="DefinitionLoader.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Equipment.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Skills.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CombatTab.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Magic.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="PrayerBook.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Prayer.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Combat.cpp">
+      <Filter>Source Files\Game\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="FormulaData.cpp">
+      <Filter>Source Files\Game\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="RangedFormulas.cpp">
+      <Filter>Source Files\Game\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="MeleeFormulas.cpp">
+      <Filter>Source Files\Game\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicFomrulas.cpp">
+      <Filter>Source Files\Game\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="CombatAssistant.cpp">
+      <Filter>Source Files\Game\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="Npc.cpp">
+      <Filter>Source Files\Game\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="SetBonus.cpp">
+      <Filter>Source Files\Game\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="Slayer.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Ground.cpp">
+      <Filter>Source Files\Game\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldMap.cpp">
+      <Filter>Source Files\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Bank.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Fletching.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Crafting.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Market.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Workshop.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Cooking.cpp">
+      <Filter>Source Files\Game\Skills</Filter>
+    </ClCompile>
+    <ClCompile Include="Fishing.cpp">
+      <Filter>Source Files\Game\Skills</Filter>
+    </ClCompile>
+    <ClCompile Include="Mining.cpp">
+      <Filter>Source Files\Game\Skills</Filter>
+    </ClCompile>
+    <ClCompile Include="Runecrafting.cpp">
+      <Filter>Source Files\Game\Skills</Filter>
+    </ClCompile>
+    <ClCompile Include="Smithing.cpp">
+      <Filter>Source Files\Game\Skills</Filter>
+    </ClCompile>
+    <ClCompile Include="Woodcutting.cpp">
+      <Filter>Source Files\Game\Skills</Filter>
+    </ClCompile>
+    <ClCompile Include="Herblore.cpp">
+      <Filter>Source Files\Game\Player</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MathHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEntity.h">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="AssetManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatedTexture.h">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginScreen.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="EscapeMenu.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="EquipmentDefinition.h">
+      <Filter>Header Files\Game\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="FoodDefinition.h">
+      <Filter>Header Files\Game\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemDefinition.h">
+      <Filter>Header Files\Game\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="PotionDefinition.h">
+      <Filter>Header Files\Game\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="RangedDefinition.h">
+      <Filter>Header Files\Game\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponDefinition.h">
+      <Filter>Header Files\Game\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="DefinitionLoader.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemBonusDefinition.h">
+      <Filter>Header Files\Game\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Equipment.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Skills.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CombatTab.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="SpellBook.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Magic.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerHUD.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="Aura.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PrayerBook.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Prayer.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="MeleeFormulas.h">
+      <Filter>Header Files\Game\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="NpcDefinition.h">
+      <Filter>Header Files\Game\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="Npc.h">
+      <Filter>Header Files\Game\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicFormulas.h">
+      <Filter>Header Files\Game\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="FormulaData.h">
+      <Filter>Header Files\Game\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="CombatAssistant.h">
+      <Filter>Header Files\Game\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="Combat.h">
+      <Filter>Header Files\Game\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="RangedFormulas.h">
+      <Filter>Header Files\Game\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="SetBonus.h">
+      <Filter>Header Files\Game\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="Slayer.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="SlayerTask.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="DropDefinition.h">
+      <Filter>Header Files\Game\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="LootDefinition.h">
+      <Filter>Header Files\Game\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="Ground.h">
+      <Filter>Header Files\Game\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldMap.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonDefinition.h">
+      <Filter>Header Files\Game\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="Bank.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Fletching.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Crafting.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopDefinition.h">
+      <Filter>Header Files\Game\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="Shop.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Market.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Workshop.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Fishing.h">
+      <Filter>Header Files\Game\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="Mining.h">
+      <Filter>Header Files\Game\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="Runecrafting.h">
+      <Filter>Header Files\Game\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="Cooking.h">
+      <Filter>Header Files\Game\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="Woodcutting.h">
+      <Filter>Header Files\Game\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="Smithing.h">
+      <Filter>Header Files\Game\Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="Herblore.h">
+      <Filter>Header Files\Game\Player</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

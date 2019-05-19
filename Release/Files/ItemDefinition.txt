@@ -1,0 +1,1053 @@
+"Wood logs" 0 0 0 1 2 0 Woodlogs.png
+"Wood logs" 1 1 1 0 2 0 Woodlogs.png
+"Oak logs" 2 0 0 3 12 0 Oaklogs.png
+"Oak logs" 3 1 1 2 12 0 Oaklogs.png
+"Willow logs" 4 0 0 5 24 0 Willowlogs.png
+"Willow logs" 5 1 1 4 24 0 Willowlogs.png
+"Maple logs" 6 0 0 7 48 0 Maplelogs.png
+"Maple logs" 7 1 1 6 48 0 Maplelogs.png
+"Yew logs" 8 0 0 9 96 0 Yewlogs.png
+"Yew logs" 9 1 1 8 96 0 Yewlogs.png
+"Magic logs" 10 0 0 11 192 0 Magiclogs.png
+"Magic logs" 11 1 1 10 192 0 Magiclogs.png
+"Bronze hatchet" 12 0 0 13 9 16 BronzeHatchet.png
+"Bronze hatchet" 13 1 1 12 9 16 BronzeHatchet.png
+"Iron hatchet" 14 0 0 15 33 56 IronHatchet.png
+"Iron hatchet" 15 1 1 14 33 56 IronHatchet.png
+"Steel hatchet" 16 0 0 17 120 200 SteelHatchet.png
+"Steel hatchet" 17 1 1 16 120 200 SteelHatchet.png
+"Black hatchet" 18 0 0 19 230 0 BlackHatchet.png
+"Black hatchet" 19 1 1 18 230 0 BlackHatchet.png
+"Mithril hatchet" 20 0 0 21 312 1664 MithrilHatchet.png
+"Mithril hatchet" 21 1 1 20 312 1664 MithrilHatchet.png
+"Adamant hatchet" 22 0 0 23 768 4096 AdamantHatchet.png
+"Adamant hatchet" 23 1 1 22 768 4096 AdamantHatchet.png
+"Rune hatchet" 24 0 0 25 7680 40960 RuneHatchet.png
+"Rune hatchet" 25 1 1 24 7680 40960 RuneHatchet.png
+"Dragon hatchet" 26 0 0 27 33000 0 DragonHatchet.png
+"Dragon hatchet" 27 1 1 26 33000 0 DragonHatchet.png
+"Flax" 28 0 0 29 3 0 Flax.png
+"Flax" 29 1 1 28 3 0 Flax.png
+"Bow string" 30 0 0 31 6 10 String.png
+"Bow string" 31 1 1 30 6 10 String.png
+"Shortbow(u)" 32 0 0 33 13 0 UnstrungBow.png
+"Shortbow(u)" 33 1 1 32 13 0 UnstrungBow.png
+"Oak shortbow(u)" 34 0 0 35 30 0 UnstrungOak.png
+"Oak shortbow(u)" 35 1 1 34 30 0 UnstrungOak.png
+"Willow shortbow(u)" 36 0 0 37 60 0 UnstrungWillow.png
+"Willow shortbow(u)" 37 1 1 36 60 0 UnstrungWillow.png
+"Maple shortbow(u)" 38 0 0 39 120 0 UnstrungMaple.png
+"Maple shortbow(u)" 39 1 1 38 120 0 UnstrungMaple.png
+"Yew shortbow(u)" 40 0 0 41 240 0 UnstrungYew.png
+"Yew shortbow(u)" 41 1 1 40 240 0 UnstrungYew.png
+"Magic shortbow(u)" 42 0 0 43 480 0 UnstrungMagic.png
+"Magic shortbow(u)" 43 1 1 42 480 0 UnstrungMagic.png
+"Shortbow" 44 0 0 45 30 50 Shortbow.png
+"Shortbow" 45 1 1 44 30 50 Shortbow.png
+"Oak shortbow" 46 0 0 47 60 100 OakShortbow.png
+"Oak shortbow" 47 1 1 46 60 100 OakShortbow.png
+"Willow shortbow" 48 0 0 49 120 200 WillowShortbow.png
+"Willow shortbow" 49 1 1 48 120 200 WillowShortbow.png
+"Maple shortbow" 50 0 0 51 240 400 MapleShortbow.png
+"Maple shortbow" 51 1 1 50 240 400 MapleShortbow.png
+"Yew shortbow" 52 0 0 53 480 0 YewShortbow.png
+"Yew shortbow" 53 1 1 52 480 0 YewShortbow.png
+"Magic shortbow" 54 0 0 55 960 0 MagicShortbow.png
+"Magic shortbow" 55 1 1 540 960 0 MagicShortbow.png
+"Arrow shafts" 56 1 0 -1 1 1 ArrowShafts.png
+"Feather" 57 1 0 -1 1 2 Feather.png
+"Headless arrow" 58 1 0 -1 1 0 HeadlessArrow.png
+"Bronze arrowtips" 59 1 0 -1 1 1 BronzeHead.png
+"Iron arrowtips" 60 1 0 -1 1 2 IronHead.png
+"Steel arrowtips" 61 1 0 -1 3 5 SteelHead.png
+"Mithril arrowtips" 62 1 0 -1 9 15 MithrilHead.png
+"Adamant arrowtips" 63 1 0 -1 24 40 AdamantHead.png
+"Rune arrowtips" 64 1 0 -1 120 460 RuneHead.png
+"Bronze arrow" 65 1 0 -1 4 2 BronzeArrow.png
+"Iron arrow" 66 1 0 -1 4 3 IronArrow.png
+"Steel arrow" 67 1 0 -1 7 12 SteelArrow.png
+"Mithril arrow" 68 1 0 -1 19 32 MithrilArrow.png
+"Adamant arrow" 69 1 0 -1 48 80 AdamantArrow.png
+"Rune arrow" 70 1 0 -1 240 520 RuneArrow.png
+"Wooden stock" 71 0 0 72 12 60 WoodStock.png
+"Wooden stock" 72 1 1 71 12 60 WoodStock.png
+"Oak stock" 73 0 0 74 16 81 OakStock.png
+"Oak stock" 74 1 1 73 16 81 OakStock.png
+"Willow stock" 75 0 0 76 31 159 WillowStock.png
+"Willow stock" 76 1 1 75 31 159 WillowStock.png
+"Maple stock" 77 0 0 78 60 300 MapleStock.png
+"Maple stock" 78 1 1 77 60 300 MapleStock.png
+"Yew stock" 79 0 0 80 100 0 YewStock.png
+"Yew stock" 80 1 1 79 100 0 YewStock.png
+"Bronze limbs" 81 0 0 82 12 20 BronzeLimbs.png
+"Bronze limbs" 82 1 1 81 12 20 BronzeLimbs.png
+"Iron limbs" 83 0 0 84 42 210 IronLimbs.png
+"Iron limbs" 84 1 1 83 42 210 IronLimbs.png
+"Steel limbs" 85 0 0 86 150 750 SteelLimbs.png
+"Steel limbs" 86 1 1 85 150 750 SteelLimbs.png
+"Mithril limbs" 87 0 0 88 390 1950 MithrilLimbs.png
+"Mithril limbs" 88 1 1 87 390 1950 MithrilLimbs.png
+"Adamant limbs" 89 0 0 90 960 4800 AdamantLimbs.png
+"Adamant limbs" 90 1 1 89 960 4800 AdamantLimbs.png
+"Rune limbs" 91 0 0 92 9600 0 RuneLimbs.png
+"Rune limbs" 92 1 1 91 9600 0 RuneLimbs.png
+"Bronze crossbow(u)" 93 0 0 94 24 0 BronzeCbowU.png
+"Bronze crossbow(u)" 94 1 1 93 24 0 BronzeCbowU.png
+"Iron crossbow(u)" 95 0 0 96 73 0 IronCbowU.png
+"Iron crossbow(u)" 96 1 1 95 73 0 IronCbowU.png
+"Steel crossbow(u)" 97 0 0 98 196 0 SteelCbowU.png
+"Steel crossbow(u)" 98 1 1 97 196 0 SteelCbowU.png
+"Mithril crossbow(u)" 99 0 0 100 450 0 MithrilCbowU.png
+"Mithril crossbow(u)" 100 1 1 99 450 0 MithrilCbowU.png
+"Adamant crossbow(u)" 101 0 0 102 1039 0 AdamantCbowU.png
+"Adamant crossbow(u)" 102 1 1 101 1039 0 AdamantCbowU.png
+"Rune crossbow(u)" 103 0 0 104 9700 0 RuneCbowU.png
+"Rune crossbow(u)" 104 1 1 103 9700 0 RuneCbowU.png
+"Bronze crossbow" 105 0 0 106 43 0 BronzeCbow.png
+"Bronze crossbow" 106 1 1 105 43 0 BronzeCbow.png
+"Iron crossbow" 107 0 0 108 94 0 IronCbow.png
+"Iron crossbow" 108 1 1 107 94 0 IronCbow.png
+"Steel crossbow" 109 0 0 110 216 0 SteelCbow.png
+"Steel crossbow" 110 1 1 109 216 0 SteelCbow.png
+"Mithril crossbow" 111 0 0 112 469 0 MithrilCbow.png
+"Mithril crossbow" 112 1 1 111 469 0 MithrilCbow.png
+"Adamant crossbow" 113 0 0 114 1060 0 AdamantCbow.png
+"Adamant crossbow" 114 1 1 113 1060 0 AdamantCbow.png
+"Rune crossbow" 115 0 0 116 9720 0 RuneCbow.png
+"Rune crossbow" 116 1 1 115 9720 0 RuneCbow.png
+"Bronze bolts(unf)" 117 1 0 -1 0 1 BronzeBoltU.png
+"Iron bolts(unf)" 118 1 0 -1 0 2 IronBoltU.png
+"Steel bolts(unf)" 119 1 0 -1 0 0 SteelBoltU.png
+"Mithril bolts(unf)" 120 1 0 -1 0 0 MithrilBoltU.png
+"Adamant bolts(unf)" 121 1 0 -1 0 0 AdamantBoltU.png
+"Rune bolts(unf)" 122 1 0 -1 0 0 RuneBoltU.png
+"Bronze bolts" 123 1 0 -1 1 1 BronzeBolt.png
+"Iron bolts" 124 1 0 -1 1 0 IronBolt.png
+"Steel bolts" 125 1 0 -1 4 0 SteelBolt.png
+"Mithril bolts" 126 1 0 -1 12 0 MithrilBolt.png
+"Adamant bolts" 127 1 0 -1 34 0 AdamantBolt.png
+"Rune bolts" 128 1 0 -1 180 0 RuneBolt.png
+"Knife" 129 0 0 130 15 25 Knife.png
+"Knife" 130 1 1 129 15 25 Knife.png
+"Raw shrimp" 131 0 0 132 3 6 Shrimp.png
+"Raw shrimp" 132 1 1 131 3 6 Shrimp.png
+"Raw sardine" 133 0 0 134 6 10 Sardine.png
+"Raw sardine" 134 1 1 133 6 10 Sardine.png
+"Raw herring" 135 0 0 136 9 0 Herring.png
+"Raw herring" 136 1 1 135 9 0 Herring.png
+"Raw anchovies" 137 0 0 138 9 16 Anchovie.png
+"Raw anchovies" 138 1 1 137 9 16 Anchovie.png
+"Raw mackerel" 139 0 0 140 15 26 Mackerel.png
+"Raw mackerel" 140 1 1 139 15 26 Mackerel.png
+"Raw trout" 141 0 0 142 12 7 Trout.png
+"Raw trout" 142 1 1 141 12 7 Trout.png
+"Raw cod" 143 0 0 144 15 49 Cod.png
+"Raw cod" 144 1 1 143 15 49 Cod.png
+"Raw pike" 145 0 0 146 15 0 Pike.png
+"Raw pike" 146 1 1 145 15 0 Pike.png
+"Raw salmon" 147 0 0 148 55 36 Salmon.png
+"Raw salmon" 148 1 1 147 55 36 Salmon.png
+"Raw tuna" 149 0 0 150 60 0 Tuna.png
+"Raw tuna" 150 1 1 149 60 0 Tuna.png
+"Raw lobster" 151 0 0 152 90 150 Lobster.png
+"Raw lobster" 152 1 1 151 90 150 Lobster.png
+"Raw bass" 153 0 0 154 72 0 Bass.png
+"Raw bass" 154 1 1 153 72 0 Bass.png
+"Raw swordfish" 155 0 0 156 120 400 Swordfish.png
+"Raw swordfish" 156 1 1 155 120 400 Swordfish.png
+"Raw monkfish" 157 0 0 158 138 241 Monkfish.png
+"Raw monkfish" 158 1 1 157 138 241 Monkfish.png
+"Raw shark" 159 0 0 160 180 390 Shark.png
+"Raw shark" 160 1 1 159 180 390 Shark.png
+"Raw whale" 161 0 0 162 195 0 Whale.png
+"Raw whale" 162 1 1 161 195 0 Whale.png
+"Shrimp" 163 0 0 164 3 6 Shrimp.png
+"Shrimp" 164 1 1 163 3 6 Shrimp.png
+"Sardine" 165 0 0 166 6 10 Sardine.png
+"Sardine" 166 1 1 165 6 10 Sardine.png
+"Herring" 167 0 0 168 9 6 Herring.png
+"Herring" 168 1 1 167 9 6 Herring.png
+"Anchovies" 169 0 0 170 9 0 Anchovie.png
+"Anchovies" 170 1 1 169 9 0 Anchovie.png
+"Mackerel" 171 0 0 172 10 23 Mackerel.png
+"Mackerel" 172 1 1 171 10 23 Mackerel.png
+"Trout" 173 0 0 174 12 7 Trout.png
+"Trout" 174 1 1 173 12 7 Trout.png
+"Cod" 175 0 0 176 15 26 Cod.png
+"Cod" 176 1 1 175 15 26 Cod.png
+"Pike" 177 0 0 178 15 0 Pike.png
+"Pike" 178 1 1 177 15 0 Pike.png
+"Salmon" 179 0 0 180 30 88 Salmon.png
+"Salmon" 180 1 1 179 30 88 Salmon.png
+"Tuna" 181 0 0 182 72 126 Tuna.png
+"Tuna" 182 1 1 181 72 126 Tuna.png
+"Lobster" 183 0 0 184 90 107 Lobster.png
+"Lobster" 184 1 1 183 90 107 Lobster.png
+"Bass" 185 0 0 186 72 270 Bass.png
+"Bass" 186 1 1 185 72 270 Bass.png
+"Swordfish" 187 0 0 188 120 400 Swordfish.png
+"Swordfish" 188 1 1 187 120 400 Swordfish.png
+"Monkfish" 189 0 0 190 138 0 Monkfish.png
+"Monkfish" 190 1 1 189 138 0 Monkfish.png
+"Shark" 191 0 0 192 180 386 Shark.png
+"Shark" 192 1 1 191 180 386 Shark.png
+"Whale" 193 0 0 194 192 0 Whale.png
+"Whale" 194 1 1 193 192 0 Whale.png
+"Small fishing net" 195 0 0 196 3 40 SmallNet.png
+"Small fishing net" 196 1 1 195 3 40 SmallNet.png
+"Big fishing net" 197 0 0 198 12 20 BigNet.png
+"Big fishing net" 198 1 1 197 12 20 BigNet.png
+"Fishing rod" 199 0 0 200 3 5 FishingRod.png
+"Fishing rod" 200 1 1 199 3 5 FishingRod.png
+"Fly fishing rod" 201 0 0 202 3 5 FlyFishingRod.png
+"Fly fishing rod" 202 1 1 201 3 5 FlyFishingRod.png
+"Harpoon" 203 0 0 204 27 5 Harpoon.png
+"Harpoon" 204 1 1 203 27 5 Harpoon.png
+"Lobster pot" 205 0 0 206 12 20 LobsterPot.png
+"Lobster pot" 206 1 1 205 12 20 LobsterPot.png
+"Bait" 207 1 0 -1 1 3 Bait.png
+"Raw chicken" 208 0 0 209 36 60 RawChicken.png
+"Raw chicken" 209 1 1 208 36 60 RawChicken.png
+"Raw beef" 210 0 0 211 35 0 RawBeef.png
+"Raw beef" 211 1 1 210 35 0 RawBeef.png
+"Cooked chicken" 212 0 0 213 7 5 CookedChicken.png
+"Cooked chicken" 213 1 1 212 7 5 CookedChicken.png
+"Cooked meat" 214 0 0 215 18 5 CookedMeat.png
+"Cooked meat" 215 1 1 214 18 5 CookedMeat.png
+"Burnt food" 216 0 0 217 1 0 BurntFood.png
+"Burnt food" 217 1 1 216 1 0 BurntFood.png
+"Rune essence" 218 0 0 219 2 0 RuneEssence.png
+"Rune essence" 219 1 1 218 2 0 RuneEssence.png
+"Copper ore" 220 0 0 221 1 4 CopperOre.png
+"Copper ore" 221 1 1 220 1 4 CopperOre.png
+"Tin ore" 222 0 0 223 12 4 TinOre.png
+"Tin ore" 223 1 1 222 12 4 TinOre.png
+"Iron ore" 224 0 0 225 10 25 IronOre.png
+"Iron ore" 225 1 1 224 10 25 IronOre.png
+"Coal" 226 0 0 227 27 67 CoalOre.png
+"Coal" 227 1 1 226 27 67 CoalOre.png
+"Gold ore" 228 0 0 229 90 225 GoldOre.png
+"Gold ore" 229 1 1 228 90 225 GoldOre.png
+"Mithril ore" 230 0 0 231 97 243 MithrilOre.png
+"Mithril ore" 231 1 1 230 97 243 MithrilOre.png
+"Adamantite ore" 232 0 0 233 240 0 AdamantOre.png
+"Adamantite ore" 233 1 1 232 240 0 AdamantOre.png
+"Runite ore" 234 0 0 235 1920 0 RuneOre.png
+"Runite ore" 235 1 1 234 1920 0 RuneOre.png
+"Bronze pickaxe" 236 0 0 237 0 1 BronzePickaxe.png
+"Bronze pickaxe" 237 1 1 236 0 1 BronzePickaxe.png
+"Iron pickaxe" 238 0 0 239 84 177 IronPickaxe.png
+"Iron pickaxe" 239 1 1 238 84 177 IronPickaxe.png
+"Steel pickaxe" 240 0 0 241 300 500 SteelPickaxe.png
+"Steel pickaxe" 241 1 1 240 300 500 SteelPickaxe.png
+"Black pickaxe" 242 0 0 243 87 0 BlackPickaxe.png
+"Black pickaxe" 243 1 1 242 87 0 BlackPickaxe.png
+"Mithril pickaxe" 244 0 0 245 780 1300 MithrilPickaxe.png
+"Mithril pickaxe" 245 1 1 244 780 1300 MithrilPickaxe.png
+"Adamant pickaxe" 246 0 0 247 1920 3200 AdamantPickaxe.png
+"Adamant pickaxe" 247 1 1 246 1920 3200 AdamantPickaxe.png
+"Rune pickaxe" 248 0 0 249 19200 32000 RunePickaxe.png
+"Rune pickaxe" 249 1 1 248 19200 32000 RunePickaxe.png
+"Dragon pickaxe" 250 0 0 251 58770 0 DragonPickaxe.png
+"Dragon pickaxe" 251 1 1 250 58770 0 DragonPickaxe.png
+"Bronze bar" 252 0 0 253 4 8 BronzeBar.png
+"Bronze bar" 253 1 1 252 4 8 BronzeBar.png
+"Iron bar" 254 0 0 255 16 0 IronBar.png
+"Iron bar" 255 1 1 254 16 0 IronBar.png
+"Steel bar" 256 0 0 257 60 0 SteelBar.png
+"Steel bar" 257 1 1 256 60 0 SteelBar.png
+"Gold bar" 258 0 0 259 120 0 GoldBar.png
+"Gold bar" 259 1 1 258 120 0 GoldBar.png
+"Mithril bar" 260 0 0 261 180 0 MithrilBar.png
+"Mithril bar" 261 1 1 260 180 0 MithrilBar.png
+"Adamantite bar" 262 0 0 263 384 0 AdamantBar.png
+"Adamantite bar" 263 1 1 262 384 0 AdamantBar.png
+"Runite bar" 264 0 0 265 3000 0 RuneBar.png
+"Runite bar" 265 1 1 264 3000 0 RuneBar.png
+"Hammer" 266 0 0 267 1 1 Hammer.png
+"Hammer" 267 1 1 266 1 1 Hammer.png
+"Bronze dagger" 268 0 0 269 6 10 BronzeDagger.png
+"Bronze dagger" 269 1 1 268 6 10 BronzeDagger.png
+"Bronze mace" 270 0 0 271 10 7 BronzeMace.png
+"Bronze mace" 271 1 1 270 10 7 BronzeMace.png
+"Bronze med_helm" 272 0 0 273 14 24 BronzeMedhelm.png
+"Bronze med_helm" 273 1 1 272 14 24 BronzeMedhelm.png
+"Bronze sword" 274 0 0 275 15 26 BronzeSword.png
+"Bronze sword" 275 1 1 274 15 26 BronzeSword.png
+"Bronze scimitar" 276 0 0 277 19 32 BronzeScimitar.png
+"Bronze scimitar" 277 1 1 276 19 32 BronzeScimitar.png
+"Bronze longsword" 278 0 0 279 24 40 BronzeLongsword.png
+"Bronze longsword" 279 1 1 278 24 40 BronzeLongsword.png
+"Bronze full helm" 280 0 0 281 25 44 BronzeFullhelm.png
+"Bronze full helm" 281 1 1 280 25 44 BronzeFullhelm.png
+"Bronze sq shield" 282 0 0 283 29 48 BronzeSqshield.png
+"Bronze sq shield" 283 1 1 282 29 48 BronzeSqshield.png
+"Bronze warhammer" 284 0 0 285 36 59 BronzeWarhammer.png
+"Bronze warhammer" 285 1 1 284 36 59 BronzeWarhammer.png
+"Bronze battleaxe" 286 0 0 287 31 52 BronzeBattleaxe.png
+"Bronze battleaxe" 287 1 1 286 31 52 BronzeBattleaxe.png
+"Bronze chainbody" 288 0 0 289 36 60 BronzeChainbody.png
+"Bronze chainbody" 289 1 1 288 36 60 BronzeChainbody.png
+"Bronze kiteshield" 290 0 0 291 41 68 BronzeKiteshield.png
+"Bronze kiteshield" 291 1 1 290 41 68 BronzeKiteshield.png
+"Bronze 2h sword" 292 0 0 293 48 80 Bronze2hSword.png
+"Bronze 2h sword" 293 1 1 292 48 80 Bronze2hSword.png
+"Bronze platelegs" 294 0 0 295 48 80 BronzePlatelegs.png
+"Bronze platelegs" 295 1 1 294 48 80 BronzePlatelegs.png
+"Bronze platebody" 296 0 0 297 96 80 BronzePlatebody.png
+"Bronze platebody" 297 1 1 296 96 80 BronzePlatebody.png
+"Iron dagger" 298 0 0 299 21 35 IronDagger.png
+"Iron dagger" 299 1 1 298 21 35 IronDagger.png
+"Iron mace" 300 0 0 301 37 63 IronMace.png
+"Iron mace" 301 1 1 300 37 63 IronMace.png
+"Iron med helm" 302 0 0 303 50 84 IronMedhelm.png
+"Iron med helm" 303 1 1 302 50 84 IronMedhelm.png
+"Iron sword" 304 0 0 305 54 91 IronSword.png
+"Iron sword" 305 1 1 304 54 91 IronSword.png
+"Iron scimitar" 306 0 0 307 67 112 IronScimitar.png
+"Iron scimitar" 307 1 1 306 67 112 IronScimitar.png
+"Iron longsword" 308 0 0 309 84 140 IronLongsword.png
+"Iron longsword" 309 1 1 308 84 140 IronLongsword.png
+"Iron full helm" 310 0 0 311 92 154 IronFullhelm.png
+"Iron full helm" 311 1 1 310 92 154 IronFullhelm.png
+"Iron sq shield" 312 0 0 313 100 168 IronSqshield.png
+"Iron sq shield" 313 1 1 312 100 168 IronSqshield.png
+"Iron warhammer" 314 0 0 315 103 224 IronWarhammer.png
+"Iron warhammer" 315 1 1 314 103 224 IronWarhammer.png
+"Iron battleaxe" 316 0 0 317 109 182 IronBattleaxe.png
+"Iron battleaxe" 317 1 1 316 109 182 IronBattleaxe.png
+"Iron chainbody" 318 0 0 319 126 210 IronChainbody.png
+"Iron chainbody" 319 1 1 318 126 210 IronChainbody.png
+"Iron kiteshield" 320 0 0 321 143 238 IronKiteshield.png
+"Iron kiteshield" 321 1 1 320 143 238 IronKiteshield.png
+"Iron 2h sword" 322 0 0 323 168 280 Iron2hSword.png
+"Iron 2h sword" 323 1 1 322 168 280 Iron2hSword.png
+"Iron platelegs" 324 0 0 325 168 280 IronPlatelegs.png
+"Iron platelegs" 325 1 1 324 168 280 IronPlatelegs.png
+"Iron platebody" 326 0 0 327 336 280 IronPlatebody.png
+"Iron platebody" 327 1 1 326 336 280 IronPlatebody.png
+"Steel dagger" 328 0 0 329 75 125 SteelDagger.png
+"Steel dagger" 329 1 1 328 75 125 SteelDagger.png
+"Steel mace" 330 0 0 331 135 225 SteelMace.png
+"Steel mace" 331 1 1 330 135 225 SteelMace.png
+"Steel med helm" 332 0 0 333 180 381 SteelMedhelm.png
+"Steel med helm" 333 1 1 332 180 381 SteelMedhelm.png
+"Steel sword" 334 0 0 335 195 325 SteelSword.png
+"Steel sword" 335 1 1 334 195 325 SteelSword.png
+"Steel scimitar" 336 0 0 337 240 400 SteelScimitar.png
+"Steel scimitar" 337 1 1 336 240 400 SteelScimitar.png
+"Steel longsword" 338 0 0 339 300 500 SteelLongsword.png
+"Steel longsword" 339 1 1 338 300 500 SteelLongsword.png
+"Steel full helm" 340 0 0 341 330 550 SteelFullhelm.png
+"Steel full helm" 341 1 1 340 330 550 SteelFullhelm.png
+"Steel sq shield" 342 0 0 343 360 600 SteelSqshield.png
+"Steel sq shield" 343 1 1 342 360 600 SteelSqshield.png
+"Steel warhammer" 344 0 0 345 384 832 SteelWarhammer.png
+"Steel warhammer" 345 1 1 344 384 832 SteelWarhammer.png
+"Steel battleaxe" 346 0 0 347 390 650 SteelBattleaxe.png
+"Steel battleaxe" 347 1 1 346 390 650 SteelBattleaxe.png
+"Steel chainbody" 348 0 0 349 450 750 SteelChainbody.png
+"Steel chainbody" 349 1 1 348 450 750 SteelChainbody.png
+"Steel kiteshield" 350 0 0 351 510 807 SteelKiteshield.png
+"Steel kiteshield" 351 1 1 350 510 807 SteelKiteshield.png
+"Steel 2h sword" 352 0 0 353 600 1000 Steel2hSword.png
+"Steel 2h sword" 353 1 1 352 600 1000 Steel2hSword.png
+"Steel platelegs" 354 0 0 355 600 1000 SteelPlatelegs.png
+"Steel platelegs" 355 1 1 354 600 1000 SteelPlatelegs.png
+"Steel platebody" 356 0 0 357 1200 2000 SteelPlatebody.png
+"Steel platebody" 357 1 1 367 1200 2000 SteelPlatebody.png
+"Mithril dagger" 358 0 0 359 195 325 MithrilDagger.png
+"Mithril dagger" 359 1 1 358 195 325 MithrilDagger.png
+"Mithril mace" 360 0 0 361 351 585 MithrilMace.png
+"Mithril mace" 361 1 1 360 351 585 MithrilMace.png
+"Mithril med helm" 362 0 0 363 468 780 MithrilMedhelm.png
+"Mithril med helm" 363 1 1 362 468 780 MithrilMedHelm.png
+"Mithril sword" 364 0 0 365 507 845 MithrilSword.png
+"Mithril sword" 365 1 1 364 507 845 MithrilSword.png
+"Mithril scimitar" 366 0 0 367 624 1040 MithrilScimitar.png
+"Mithril scimitar" 367 1 1 366 624 1040 MithrilScimitar.png
+"Mithril longsword" 368 0 0 369 780 1300 MithrilLongsword.png
+"Mithril longsword" 369 1 1 368 780 1300 MithrilLongsword.png
+"Mithril full helm" 370 0 0 371 858 1430 MithrilFullhelm.png
+"Mithril full helm" 371 1 1 370 858 1430 MithrilFullhelm.png
+"Mithril sq shield" 372 0 0 373 936 1560 MithrilSqshield.png
+"Mithril sq shield" 373 1 1 372 936 1560 MithrilSqshield.png
+"Mithril warhammer" 374 0 0 375 996 2158 MithrilWarhammer.png
+"Mithril warhammer" 375 1 1 374 996 2158 MithrilWarhammer.png
+"Mithril battleaxe" 376 0 0 377 1014 1690 MithrilBattleaxe.png
+"Mithril battleaxe" 377 1 1 376 1014 1690 MithrilBattleaxe.png
+"Mithril chainbody" 378 0 0 379 1170 1950 MithrilChainbody.png
+"Mithril chainbody" 379 1 1 378 1170 1950 MithrilChainbody.png
+"Mithril kiteshield" 380 0 0 381 1326 2210 MithrilKiteshield.png
+"Mithril kiteshield" 381 1 1 380 1326 2210 MithrilKiteshield.png
+"Mithril 2h sword" 382 0 0 383 1560 2600 Mithril2hSword.png
+"Mithril 2h sword" 383 1 1 382 1560 2600 Mithril2hSword.png
+"Mithril platelegs" 384 0 0 385 1560 2600 MithrilPlatelegs.png
+"Mithril platelegs" 385 1 1 384 1560 2600 MithrilPlatelegs.png
+"Mithril platebody" 386 0 0 387 3120 5200 MithrilPlatebody.png
+"Mithril platebody" 387 1 1 386 3120 5200 MithrilPlatebody.png
+"Adamant dagger" 388 0 0 389 480 800 AdamantDagger.png
+"Adamant dagger" 389 1 1 388 480 800 AdamantDagger.png
+"Adamant mace" 390 0 0 391 864 1440 AdamantMace.png
+"Adamant mace" 391 1 1 390 864 1440 AdamantMace.png
+"Adamant med helm" 392 0 0 393 1152 1920 AdamantMedhelm.png
+"Adamant med helm" 393 1 1 392 1152 1920 AdamantMedhelm.png
+"Adamant sword" 394 0 0 395 1248 2080 AdamantSword.png
+"Adamant sword" 395 1 1 394 1248 2080 AdamantSword.png
+"Adamant scimitar" 396 0 0 397 1536 0 AdamantScimitar.png
+"Adamant scimitar" 397 1 1 396 1536 0 AdamantScimitar.png
+"Adamant longsword" 398 0 0 399 1920 3200 AdamantLongsword.png
+"Adamant longsword" 399 1 1 398 1920 3200 AdamantLongsword.png
+"Adamant full helm" 400 0 0 401 2112 3520 AdamantFullhelm.png
+"Adamant full helm" 401 1 1 400 2112 3520 AdamantFullhelm.png
+"Adamant sq shield" 402 0 0 403 2304 0 AdamantSqshield.png
+"Adamant sq shield" 403 1 1 402 2304 0 AdamantSqshield.png
+"Adamant warhammer" 404 0 0 405 2472 5356 AdamantWarhammer.png
+"Adamant warhammer" 405 1 1 404 2472 5356 AdamantWarhammer.png
+"Adamant battleaxe" 406 0 0 407 2496 4160 AdamantBattleaxe.png
+"Adamant battleaxe" 407 1 1 406 2496 4160 AdamantBattleaxe.png
+"Adamant chainbody" 408 0 0 409 2880 4800 AdamantChainbody.png
+"Adamant chainbody" 409 1 1 408 2880 4800 AdamantChainbody.png
+"Adamant kiteshield" 410 0 0 411 3264 0 AdamantKiteshield.png
+"Adamant kiteshield" 411 1 1 410 3264 0 AdamantKiteshield.png
+"Adamant 2h sword" 412 0 0 413 3840 6400 Adamant2hSword.png
+"Adamant 2h sword" 413 1 1 412 3840 6400 Adamant2hSword.png
+"Adamant platelegs" 414 0 0 415 3840 6400 AdamantPlatelegs.png
+"Adamant platelegs" 415 1 1 414 3840 6400 AdamantPlatelegs.png
+"Adamant platebody" 416 0 0 417 9984 21632 AdamantPlatebody.png
+"Adamant platebody" 417 1 1 416 9984 21632 AdamantPlatebody.png
+"Rune dagger" 418 0 0 419 4800 8000 RuneDagger.png
+"Rune dagger" 419 1 1 418 4800 8000 RuneDagger.png
+"Rune mace" 420 0 0 421 8640 14400 RuneMace.png
+"Rune mace" 421 1 1 420 8640 14400 RuneMace.png
+"Rune med helm" 422 0 0 423 11520 0 RuneMedhelm.png
+"Rune med helm" 423 1 1 422 11520 0 RuneMedhelm.png
+"Rune sword" 424 0 0 425 12480 20800 RuneSword.png
+"Rune sword" 425 1 1 424 12480 20800 RuneSword.png
+"Rune scimitar" 426 0 0 427 15360 0 RuneScimitar.png
+"Rune scimitar" 427 1 1 426 15360 0 RuneScimitar.png
+"Rune longsword" 428 0 0 429 19200 32000 RuneLongsword.png
+"Rune longsword" 429 1 1 428 19200 32000 RuneLongsword.png
+"Rune full helm" 430 0 0 431 21120 0 RuneFullhelm.png
+"Rune full helm" 431 1 1 430 21120 0 RuneFullhelm.png
+"Rune sq shield" 432 0 0 433 23040 0 RuneSqshield.png
+"Rune sq shield" 433 1 1 432 23040 0 RuneSqshield.png
+"Rune warhammer" 434 0 0 435 24900 41500 RuneWarhammer.png
+"Rune warhammer" 435 1 1 434 24900 41500 RuneWarhammer.png
+"Rune battleaxe" 436 0 0 437 24960 0 RuneBattleaxe.png
+"Rune battleaxe" 437 1 1 436 24960 0 RuneBattleaxe.png
+"Rune chainbody" 438 0 0 439 30000 50000 RuneChainbody.png
+"Rune chainbody" 439 1 1 438 30000 50000 RuneChainbody.png
+"Rune kiteshield" 440 0 0 441 32640 0 RuneKiteshield.png
+"Rune kiteshield" 441 1 1 440 32640 0 RuneKiteshield.png
+"Rune 2h sword" 442 0 0 443 38400 0 Rune2hSword.png
+"Rune 2h sword" 443 1 1 442 38400 0 Rune2hSword.png
+"Rune platelegs" 444 0 0 445 38400 64000 RunePlatelegs.png
+"Rune platelegs" 445 1 1 444 38400 64000 RunePlatelegs.png
+"Rune platebody" 446 0 0 447 41000 84500 RunePlatebody.png
+"Rune platebody" 447 1 1 446 41000 84500 RunePlatebody.png
+"Cowhide" 448 0 0 449 1 0 Cowhide.png
+"Cowhide" 449 1 1 448 1 0 Cowhide.png
+"Leather" 450 0 0 451 0 0 Leather.png
+"Leather" 451 1 1 450 0 0 Leather.png
+"Hard leather" 452 0 0 453 0 0 HardLeather.png
+"Hard leather" 453 1 1 452 0 0 HardLeather.png
+"Leather gloves" 454 0 0 455 3 6 LeatherGloves.png
+"Leather gloves" 455 1 1 454 3 6 LeatherGloves.png
+"Leather boots" 456 0 0 457 3 6 LeatherBoots.png
+"Leather boots" 457 1 1 456 3 6 LeatherBoots.png
+"Leather cowl" 458 0 0 459 14 24 LeatherCowl.png
+"Leather cowl" 459 1 1 458 14 24 LeatherCowl.png
+"Leather vambraces" 460 0 0 461 10 16 LeatherVambs.png
+"Leather vambraces" 461 1 1 460 10 16 LeatherVambs.png
+"Leather body" 462 0 0 463 12 21 LeatherBody.png
+"Leather body" 463 1 1 462 12 21 LeatherBody.png
+"Leather chaps" 464 0 0 465 12 23 LeatherChaps.png
+"Leather chaps" 465 1 1 464 12 23 LeatherChaps.png
+"Hardleather body" 466 0 0 467 102 170 HardLeatherBody.png
+"Hardleather body" 467 1 1 466 102 170 HardLeatherBody.png
+"Coif" 468 0 0 469 120 200 Coif.png
+"Coif" 469 1 1 468 120 200 Coif.png
+"Studded body" 470 0 0 471 510 850 StuddedBody.png
+"Studded body" 471 1 1 470 510 850 StuddedBody.png
+"Studded chaps" 472 0 0 473 450 750 StuddedChaps.png
+"Studded chaps" 473 1 1 472 450 750 StuddedChaps.png
+"Green dragonhide" 474 0 0 475 12 0 GreenHide.png
+"Green dragonhide" 475 1 1 474 12 0 GreenHide.png
+"Blue dragonhide" 476 0 0 477 24 0 BlueHide.png
+"Blue dragonhide" 477 1 1 476 24 0 BlueHide.png
+"Red dragonhide" 478 0 0 479 24 0 RedHide.png
+"Red dragonhide" 479 1 1 478 24 0 RedHide.png
+"Black dragonhide" 480 0 0 481 48 0 BlackHide.png
+"Black dragonhide" 481 1 1 480 48 0 BlackHide.png
+"Green dragon leather" 482 0 0 483 30 0 GreenLeather.png
+"Green dragon leather" 483 1 1 482 30 0 GreenLeather.png
+"Blue dragon leather" 484 0 0 485 42 0 BlueLeather.png
+"Blue dragon leather" 485 1 1 484 42 0 BlueLeather.png
+"Red dragon leather" 486 0 0 487 54 0 RedLeather.png
+"Red dragon leather" 487 1 1 486 54 0 RedLeather.png
+"Black dragon leather" 488 0 0 489 48 0 BlackLeather.png
+"Black dragon leather" 489 1 1 488 48 0 BlackLeather.png
+"Green d'hide vamb" 490 0 0 491 1500 2500 GreenVambs.png
+"Green d'hide vamb" 491 1 1 490 1500 2500 GreenVambs.png
+"Green d'hide chaps" 492 0 0 492 2340 3900 GreenChaps.png
+"Green d'hide chaps" 493 1 1 493 2340 3900 GreenChaps.png
+"Green d'hide body" 494 0 0 495 4680 10140 GreenBody.png
+"Green d'hide body" 495 1 1 494 4680 10140 GreenBody.png
+"Blue d'hide vamb" 496 0 0 497 1800 0 BlueVambs.png
+"Blue d'hide vamb" 497 1 1 496 1800 0 BlueVambs.png
+"Blue d'hide chaps" 498 0 0 499 2592 0 BlueChaps.png
+"Blue d'hide chaps" 499 1 1 498 2592 0 BlueChaps.png
+"Blue d'hide body" 500 0 0 501 5616 0 BlueBody.png
+"Blue d'hide body" 501 1 1 500 5616 0 BlueBody.png
+"Red d'hide vamb" 502 0 0 501 2160 0 RedVambs.png
+"Red d'hide vamb" 503 1 1 504 2160 0 RedVambs.png
+"Red d'hide chaps" 504 0 0 503 3108 0 RedChaps.png
+"Red d'hide chaps" 505 1 1 506 3108 0 RedChaps.png
+"Red d'hide body" 506 0 0 505 6738 0 RedBody.png
+"Red d'hide body" 507 1 1 508 6738 0 RedBody.png
+"Black d'hide vamb" 508 0 0 509 2592 0 BlackVambs.png
+"Black d'hide vamb" 509 1 1 508 2592 0 BlackVambs.png
+"Black d'hide chaps" 510 0 0 511 3732 0 BlackChaps.png
+"Black d'hide chaps" 511 1 1 510 3732 0 BlackChaps.png
+"Black d'hide body" 512 0 0 513 8088 0 BlackBody.png
+"Black d'hide body" 513 1 1 512 8088 0 BlackBody.png
+"Needle" 514 1 0 -1 0 1 Needle.png
+"Thread" 515 1 0 -1 2 2 Thread.png
+"Coins" 516 1 0 -1 1 1 Coins.png
+"Peach" 517 0 0 518 0 0 Peach.png
+"Peach" 518 1 1 517 0 0 Peach.png
+"Air talisman" 519 0 0 520 2 0 AirTalisman.png
+"Air talisman" 520 1 1 519 2 0 AirTalisman.png
+"Mind talisman" 521 0 0 522 2 0 MindTalisman.png
+"Mind talisman" 522 1 1 521 2 0 MindTalisman.png
+"Water talisman" 523 0 0 524 2 0 WaterTalisman.png
+"Water talisman" 524 1 1 523 2 0 WaterTalisman.png
+"Earth talisman" 525 0 0 526 2 0 EarthTalisman.png
+"Earth talisman" 526 1 1 525 2 0 EarthTalisman.png
+"Fire talisman" 527 0 0 528 2 0 FireTalisman.png
+"Fire talisman" 528 1 1 527 2 0 FireTalisman.png
+"Cosmic talisman" 529 0 0 530 2 0 CosmicTalisman.png
+"Cosmic talisman" 530 1 1 529 2 0 CosmicTalisman.png
+"Chaos talisman" 531 0 0 532 2 0 ChaosTalisman.png
+"Chaos talisman" 532 1 1 531 2 0 ChaosTalisman.png
+"Nature talisman" 533 0 0 534 2 0 NatureTalisman.png
+"Nature talisman" 534 1 1 533 2 0 NatureTalisman.png
+"Death talisman" 535 0 0 536 2 0 DeathTalisman.png
+"Death talisman" 536 1 1 535 2 0 DeathTalisman.png
+"Blood talisman" 537 0 0 538 2 0 BloodTalisman.png
+"Blood talisman" 538 1 1 537 2 0 BloodTalisman.png
+"Air rune" 539 1 0 -1 2 5 AirRune.png
+"Mind rune" 540 1 0 -1 1 5 MindRune.png
+"Water rune" 541 1 0 -1 3 5 WaterRune.png
+"Earth rune" 542 1 0 -1 3 5 EarthRune.png
+"Fire rune" 543 1 0 -1 3 5 FireRune.png
+"Cosmic rune" 544 1 0 -1 30 162 CosmicRune.png
+"Chaos rune" 545 1 0 -1 54 101 ChaosRune.png
+"Nature rune" 546 1 0 -1 108 256 NatureRune.png
+"Death rune" 547 1 0 -1 108 250 DeathRune.png
+"Blood rune" 548 1 0 -1 240 550 BloodRune.png
+"Bones" 549 0 0 550 0 0 Bones.png
+"Bones" 550 1 1 549 0 0 Bones.png
+"Big bones" 551 0 0 552 0 0 BigBones.png
+"Big bones" 552 1 1 551 0 0 BigBones.png
+"Dragon bones" 553 0 0 554 0 0 DragonBones.png
+"Dragon bones" 554 1 1 553 0 0 DragonBones.png
+"Ancient bones" 555 0 0 556 0 0 AncientBones.png
+"Ancient bones" 556 1 1 555 0 0 AncientBones.png
+"Broad arrow" 557 1 0 -1 54 60 BroadArrow.png
+"Broad bolt" 558 1 0 -1 54 60 BroadBolt.png
+"Staff" 559 0 0 560 8 15 Staff.png
+"Staff" 560 1 1 569 8 15 Staff.png
+"Staff of air" 561 0 0 562 900 1500 AirStaff.png
+"Staff of air" 562 1 1 561 900 1500 AirStaff.png
+"Staff of water" 563 0 0 564 900 1500 WaterStaff.png
+"Staff of water" 564 1 1 563 900 1500 WaterStaff.png
+"Staff of earth" 565 0 0 566 900 1500 EarthStaff.png
+"Staff of earth" 566 1 1 565 900 1500 EarthStaff.png
+"Staff of fire" 567 0 0 568 900 1500 FireStaff.png
+"Staff of fire" 568 1 1 567 900 1500 FireStaff.png
+"God staff" 569 0 0 570 48000 80000 GodStaff.png
+"God staff" 570 1 1 569 48000 80000 GodStaff.png
+"Slayer's staff" 571 0 0 572 12600 21000 SlayerStaff.png
+"Slayer's staff" 572 1 1 571 12600 21000 SlayerStaff.png
+"Vial" 573 0 0 574 1 2 Vial.png
+"Vial" 574 1 1 573 1 2 Vial.png
+"Eye of newt" 575 0 0 576 1 3 EyeOfNewt.png
+"Eye of newt" 576 1 1 575 1 3 EyeOfNewt.png
+"Limpwurt root" 577 0 0 578 4 0 LimpwurtRoot.png
+"Limpwurt root" 578 1 1 577 4 0 LimpwurtRoot.png
+"White berries" 579 0 0 580 6 0 WhiteBerry.png
+"White berries" 580 1 1 579 6 0 WhiteBerry.png
+"Goat horn" 581 0 0 582 7 0 GoatHorn.png
+"Goat horn" 582 1 1 581 7 0 GoatHorn.png
+"Snape grass" 583 0 0 584 6 0 SnapeGrass.png
+"Snape grass" 584 1 1 583 6 0 SnapeGrass.png
+"Red spiders' eggs" 585 0 0 586 4 0 RedSpiderEggs.png
+"Red spiders' eggs" 586 1 1 585 4 0 RedSpiderEggs.png
+"Wine of Zamorak" 587 0 0 588 0 0 WineOfZamorak.png
+"Wine of Zamorak" 588 1 1 587 0 0 WineOfZamorak.png
+"Potato cactus" 589 0 0 590 0 0 PotatoCactus.png
+"Potato cactus" 590 1 1 589 0 0 PotatoCactus.png
+"Jangerberries" 591 0 0 592 0 0 Jangerberries.png
+"Jangerberries" 592 1 1 591 0 0 Jangerberries.png
+"Bird nest" 593 0 0 594 0 0 BirdNest.png
+"Bird nest" 594 1 1 593 0 0 BirdNest.png
+"Guam leaf" 595 0 0 596 1 0 GuamLeaf.png
+"Guam leaf" 596 1 1 595 1 0 GuamLeaf.png
+"Tarromin" 597 0 0 598 6 0 Tarromin.png
+"Tarromin" 598 1 1 597 6 0 Tarromin.png
+"Ranarr" 599 0 0 600 15 0 Ranarr.png
+"Ranarr" 600 1 1 599 15 0 Ranarr.png
+"Harralander" 601 0 0 602 12 0 Harralander.png
+"Harralander" 602 1 1 601 12 0 Harralander.png
+"Irit" 603 0 0 604 24 0 Irit.png
+"Irit" 604 1 1 603 24 0 Irit.png
+"Kwuarm" 605 0 0 606 32 0 Kwuarm.png
+"Kwuarm" 606 1 1 605 32 0 Kwuarm.png
+"Snapdragon" 607 0 0 608 35 0 Snapdragon.png
+"Snapdragon" 608 1 1 607 35 0 Snapdragon.png
+"Cadantine" 609 0 0 610 39 0 Cadantine.png
+"Cadantine" 610 1 1 609 39 0 Cadantine.png
+"Dwarf weed" 611 0 0 612 42 0 DwarfWeed.png
+"Dwarf weed" 612 1 1 611 42 0 DwarfWeed.png
+"Lantadyme" 613 0 0 614 40 0 Lantadyme.png
+"Lantadyme" 614 1 1 613 40 0 Lantadyme.png
+"Torstol" 615 0 0 616 45 0 Torstol.png
+"Torstol" 616 1 1 615 45 0 Torstol.png
+"Toadflax" 617 0 0 618 28 0 Toadflax.png
+"Toadflax" 618 1 1 617 28 0 Toadflax.png
+"Attack potion(1)" 619 0 0 620 9 14 Attack1.png
+"Attack potion(1)" 620 1 1 619 9 14 Attack1.png
+"Attack potion(2)" 621 0 0 622 9 14 Attack2.png
+"Attack potion(2)" 622 1 1 621 9 14 Attack2.png
+"Attack potion(3)" 623 0 0 624 9 14 Attack3.png
+"Attack potion(3)" 624 1 1 623 9 14 Attack3.png
+"Attack potion(4)" 625 0 0 626 9 14 Attack4.png
+"Attack potion(4)" 626 1 1 625 9 14 Attack4.png
+"Strength potion(1)" 627 0 0 628 8 15 Strength1.png
+"Strength potion(1)" 628 1 1 627 8 15 Strength1.png
+"Strength potion(2)" 629 0 0 630 8 15 Strength2.png
+"Strength potion(2)" 630 1 1 629 8 15 Strength2.png
+"Strength potion(3)" 631 0 0 632 8 15 Strength3.png
+"Strength potion(3)" 632 1 1 631 8 15 Strength3.png
+"Strength potion(4)" 633 0 0 634 8 15 Strength4.png
+"Strength potion(4)" 634 1 1 633 8 15 Strength4.png
+"Defense potion(1)" 635 0 0 636 72 114 Defense1.png
+"Defense potion(1)" 636 1 1 635 72 114 Defense1.png
+"Defense potion(2)" 637 0 0 638 72 114 Defense2.png
+"Defense potion(2)" 638 1 1 637 72 114 Defense2.png
+"Defense potion(3)" 639 0 0 640 72 114 Defense3.png
+"Defense potion(3)" 640 1 1 639 72 114 Defense3.png
+"Defense potion(4)" 641 0 0 642 72 114 Defense4.png
+"Defense potion(4)" 642 1 1 641 72 114 Defense4.png
+"Combat potion(1)" 643 0 0 644 96 0 Combat1.png
+"Combat potion(1)" 644 1 1 643 96 0 Combat1.png
+"Combat potion(2)" 645 0 0 646 96 0 Combat2.png
+"Combat potion(2)" 646 1 1 645 96 0 Combat2.png
+"Combat potion(3)" 647 0 0 648 96 0 Combat3.png
+"Combat potion(3)" 648 1 1 647 96 0 Combat3.png
+"Combat potion(4)" 649 0 0 650 96 0 Combat4.png
+"Combat potion(4)" 650 1 1 649 96 0 Combat4.png
+"Prayer potion(1)" 651 0 0 652 91 0 Prayer1.png
+"Prayer potion(1)" 652 1 1 651 91 0 Prayer1.png
+"Prayer potion(2)" 653 0 0 654 91 0 Prayer2.png
+"Prayer potion(2)" 654 1 1 653 91 0 Prayer2.png
+"Prayer potion(3)" 655 0 0 656 91 0 Prayer3.png
+"Prayer potion(3)" 656 1 1 655 91 0 Prayer3.png
+"Prayer potion(4)" 657 0 0 658 91 0 Prayer4.png
+"Prayer potion(4)" 658 1 1 657 91 0 Prayer4.png
+"Super attack(1)" 659 0 0 660 108 0 SuperAttack1.png
+"Super attack(1)" 660 1 1 659 108 0 SuperAttack1.png
+"Super attack(2)" 661 0 0 662 108 0 SuperAttack2.png
+"Super attack(2)" 662 1 1 661 108 0 SuperAttack2.png
+"Super attack(3)" 663 0 0 664 108 0 SuperAttack3.png
+"Super attack(3)" 664 1 1 663 108 0 SuperAttack3.png
+"Super attack(4)" 665 0 0 666 108 0 SuperAttack4.png
+"Super attack(4)" 666 1 1 665 108 0 SuperAttack4.png
+"Super strength(1)" 667 0 0 668 132 0 SuperStrength1.png
+"Super strength(1)" 668 1 1 667 132 0 SuperStrength1.png
+"Super strength(2)" 669 0 0 670 132 0 SuperStrength2.png
+"Super strength(2)" 670 1 1 669 132 0 SuperStrength2.png
+"Super strength(3)" 671 0 0 672 132 0 SuperStrength3.png
+"Super strength(3)" 672 1 1 671 132 0 SuperStrength3.png
+"Super strength(4)" 673 0 0 674 132 0 SuperStrength4.png
+"Super strength(4)" 674 1 1 673 132 0 SuperStrength4.png
+"Super restore(1)" 675 0 0 676 144 0 SuperRestore1.png
+"Super restore(1)" 676 1 1 675 144 0 SuperRestore1.png
+"Super restore(2)" 677 0 0 678 144 0 SuperRestore2.png
+"Super restore(2)" 678 1 1 677 144 0 SuperRestore2.png
+"Super restore(3)" 679 0 0 680 144 0 SuperRestore3.png
+"Super restore(3)" 680 1 1 679 144 0 SuperRestore3.png
+"Super restore(4)" 681 0 0 682 144 0 SuperRestore4.png
+"Super restore(4)" 682 1 1 681 144 0 SuperRestore4.png
+"Super defense(1)" 683 0 0 684 158 0 SuperDefense1.png
+"Super defense(1)" 684 1 1 683 158 0 SuperDefense1.png
+"Super defense(2)" 685 0 0 686 158 0 SuperDefense2.png
+"Super defense(2)" 686 1 1 685 158 0 SuperDefense2.png
+"Super defense(3)" 687 0 0 688 158 0 SuperDefense3.png
+"Super defense(3)" 688 1 1 687 158 0 SuperDefense3.png
+"Super defense(4)" 689 0 0 690 158 0 SuperDefense4.png
+"Super defense(4)" 690 1 1 689 158 0 SuperDefense4.png
+"Ranging potion(1)" 691 0 0 692 172 0 Ranging1.png
+"Ranging potion(1)" 692 1 1 691 172 0 Ranging1.png
+"Ranging potion(2)" 693 0 0 694 172 0 Ranging2.png
+"Ranging potion(2)" 694 1 1 693 172 0 Ranging2.png
+"Ranging potion(3)" 695 0 0 696 172 0 Ranging3.png
+"Ranging potion(3)" 696 1 1 695 172 0 Ranging3.png
+"Ranging potion(4)" 697 0 0 698 172 0 Ranging4.png
+"Ranging potion(4)" 698 1 1 697 172 0 Ranging4.png
+"Magic potion(1)" 699 0 0 700 150 0 Magic1.png
+"Magic potion(1)" 700 1 1 699 150 0 Magic1.png
+"Magic potion(2)" 701 0 0 702 150 0 Magic2.png
+"Magic potion(2)" 702 1 1 701 150 0 Magic2.png
+"Magic potion(3)" 703 0 0 704 150 0 Magic3.png
+"Magic potion(3)" 704 1 1 703 150 0 Magic3.png
+"Magic potion(4)" 705 0 0 706 150 0 Magic4.png
+"Magic potion(4)" 706 1 1 705 150 0 Magic4.png
+"Zamorak brew(1)" 707 0 0 708 105 0 ZamorakBrew1.png
+"Zamorak brew(1)" 708 1 1 707 105 0 ZamorakBrew1.png
+"Zamorak brew(2)" 709 0 0 710 105 0 ZamorakBrew2.png
+"Zamorak brew(2)" 710 1 1 709 105 0 ZamorakBrew2.png
+"Zamorak brew(3)" 711 0 0 712 105 0 ZamorakBrew3.png
+"Zamorak brew(3)" 712 1 1 711 105 0 ZamorakBrew3.png
+"Zamorak brew(4)" 713 0 0 714 105 0 ZamorakBrew4.png
+"Zamorak brew(4)" 714 1 1 713 105 0 ZamorakBrew4.png
+"Saradomin brew(1)" 715 0 0 716 120 0 SaradominBrew1.png
+"Saradomin brew(1)" 716 1 1 715 120 0 SaradominBrew1.png
+"Saradomin brew(2)" 717 0 0 718 120 0 SaradominBrew2.png
+"Saradomin brew(2)" 718 1 1 717 120 0 SaradominBrew2.png
+"Saradomin brew(3)" 719 0 0 720 120 0 SaradominBrew3.png
+"Saradomin brew(3)" 720 1 1 719 120 0 SaradominBrew3.png
+"Saradomin brew(4)" 721 0 0 722 120 0 SaradominBrew4.png
+"Saradomin brew(4)" 722 1 1 721 120 0 SaradominBrew4.png
+"Super combat(1)" 723 0 0 724 150 0 SuperCombat1.png
+"Super combat(1)" 724 1 1 723 150 0 SuperCombat1.png
+"Super combat(2)" 725 0 0 726 150 0 SuperCombat2.png
+"Super combat(2)" 726 1 1 725 150 0 SuperCombat2.png
+"Super combat(3)" 727 0 0 728 150 0 SuperCombat3.png
+"Super combat(3)" 728 1 1 727 150 0 SuperCombat3.png
+"Super combat(4)" 729 0 0 730 150 0 SuperCombat4.png
+"Super combat(4)" 730 1 1 729 150 0 SuperCombat4.png
+"Black mask" 731 0 0 732 1800 0 BlackMask.png
+"Black mask" 732 1 1 731 1800 0 BlackMask.png
+"Slayer helmet" 733 0 0 734 24000 0 SlayerHelmet.png
+"Slayer helmet" 734 1 1 733 24000 0 SlayerHelmet.png
+"Facemask" 735 0 0 736 120 200 FaceMask.png
+"Facemask" 736 1 1 735 120 200 FaceMask.png
+"Earmuffs" 737 0 0 738 120 200 EarMuffs.png
+"Earmuffs" 738 1 1 737 120 200 EarMuffs.png
+"Bag of salt" 739 1 0 -1 6 10 BagOfSalt.png
+"Ice cooler" 740 1 0 -1 0 1 IceCooler.png
+"Mirror shield" 741 0 0 742 3000 5000 MirrorShield.png
+"Mirror shield" 742 1 1 741 3000 5000 MirrorShield.png
+"Fishing explosive" 743 1 0 -1 36 60 FishingExplosive.png
+"Bug lantern" 744 0 0 745 78 130 BugLantern.png
+"Bug lantern" 745 1 1 744 78 130 BugLantern.png
+"Spiny helmet" 746 0 0 747 390 650 SpinyHelmet.png
+"Spiny helmet" 747 1 1 746 390 650 SpinyHelmet.png
+"Witchwood icon" 748 0 0 749 540 900 WitchwoodIcon.png
+"Witchwood icon" 749 1 1 748 540 900 WitchwoodIcon.png
+"Insulated boots" 750 0 0 751 120 200 InsulatedBoots.png
+"Insulated boots" 751 1 1 750 120 200 InsulatedBoots.png
+"Slayer bell" 752 0 0 753 90 150 SlayerBell.png
+"Slayer bell" 753 1 1 752 90 150 SlayerBell.png
+"Slayer gloves" 754 0 0 755 120 200 SlayerGloves.png
+"Slayer gloves" 755 1 1 754 120 200 SlayerGloves.png
+"Leaf-bladed spear" 756 0 0 757 18600 31000 LeafBladedSpear.png
+"Leaf-bladed spear" 757 1 1 756 18600 31000 LeafBladedSpear.png
+"Fungicide" 758 1 0 -1 6 10 Fungicide.png
+"Nose peg" 759 0 0 760 120 200 NosePeg.png
+"Nose peg" 760 1 1 759 120 200 NosePeg.png
+"Rock hammer" 761 0 0 762 300 500 RockHammer.png
+"Rock hammer" 762 1 1 761 300 500 RockHammer.png
+"Anti-dragon shield" 763 0 0 764 12 26 AntiDragonShield.png
+"Anti-dragon shield" 764 1 1 763 12 26 AntiDragonShield.png
+"Bonecrusher" 765 0 0 766 25 30 BoneCrusher.png
+"Bonecrusher" 766 1 1 765 25 30 BoneCrusher.png
+"Mystic hat" 767 0 0 768 9000 15000 MysticHat.png
+"Mystic hat" 768 1 1 767 9000 15000 MysticHat.png
+"Mystic robe top" 769 0 0 770 72000 120000 MysticTop.png
+"Mystic robe top" 770 1 1 769 72000 120000 MysticTop.png
+"Mystic robe bottom" 771 0 0 772 48000 80000 MysticBottom.png
+"Mystic robe bottom" 772 1 1 771 48000 80000 MysticBottom.png
+"Mystic gloves" 773 0 0 774 6000 10000 MysticGloves.png
+"Mystic gloves" 774 1 1 773 6000 10000 MysticGloves.png
+"Mystic boots" 775 0 0 776 6000 10000 MysticBoots.png
+"Mystic boots" 776 1 1 775 6000 10000 MysticBoots.png
+"Ava's Attractor" 777 0 0 778 461 999 Attractor.png
+"Ava's Attractor" 778 1 1 777 461 999 Attractor.png
+"Ava's Accumulator" 779 0 0 780 461 999 Accumulator.png
+"Ava's Accumulator" 780 1 1 779 461 999 Accumulator.png
+"Bronze boots" 781 0 0 782 14 0 BronzeBoots.png
+"Bronze boots" 782 1 1 781 14 0 BronzeBoots.png
+"Iron boots" 783 0 0 784 50 0 IronBoots.png
+"Iron boots" 784 1 1 783 50 0 IronBoots.png
+"Steel boots" 785 0 0 786 180 0 SteelBoots.png
+"Steel boots" 786 1 1 785 180 0 SteelBoots.png
+"Black boots" 787 0 0 788 345 0 BlackBoots.png
+"Black boots" 788 1 1 787 345 0 BlackBoots.png
+"Mithril boots" 789 0 0 790 468 0 MithrilBoots.png
+"Mithril boots" 790 1 1 789 468 0 MithrilBoots.png
+"Adamant boots" 791 0 0 792 1152 0 AdamantBoots.png
+"Adamant boots" 792 1 1 791  1520 0 AdamantBoots.png
+"Rune boots" 793 0 0 794 7500 0 RuneBoots.png
+"Rune boots" 794 1 1 793 7500 0 RuneBoots.png
+"Dragon boots" 795 0 0 796 12000 0 DragonBoots.png
+"Dragon boots" 796 1 1 795 12000 0 DragonBoots.png
+"Abyssal whip" 797 0 0 798 72000 0 AbyssalWhip.png
+"Abyssal whip" 798 1 1 797 72000 0 AbyssalWhip.png
+"Dragonfire shield" 799 0 0 800 200000 0 DragonFireShield.png
+"Dragonfire shield" 800 1 1 799 200000 0 DragonFireShield.png
+"Granite maul" 801 0 0 802 30000 0 GraniteMaul.png
+"Granite maul" 802 1 1 801 30000 0 GraniteMaul.png
+"Granite helm" 803 0 0 804 27600 0 GraniteHelm.png
+"Granite helm" 804 1 1 803 27600 0 GraniteHelm.png
+"Granite body" 805 0 0 806 48000 95000 GraniteBody.png
+"Granite body" 806 1 1 805 48000 95000 GraniteBody.png
+"Granite legs" 807 0 0 808 39600 0 GraniteLegs.png
+"Granite legs" 808 1 1 807 39600 0 GraniteLegs.png
+"Dragon dagger" 809 0 0 810 18000 30000 DragonDagger.png
+"Dragon dagger" 810 1 1 809 18000 30000 DragonDagger.png
+"Dragon mace" 811 0 0 812 30000 50000 DragonMace.png
+"Dragon mace" 812 1 1 811 30000 50000 DragonMace.png
+"Dragon med helm" 813 0 0 814 60000 0 DragonMedHelm.png
+"Dragon med helm" 814 1 1 813 60000 0 DragonMedHelm.png
+"Dragon scimitar" 815 0 0 816 60000 100000 DragonScimitar.png
+"Dragon scimitar" 816 1 1 815 60000 100000 DragonScimitar.png
+"Dragon longsword" 817 0 0 818 60000 100000 DragonLongsword.png
+"Dragon longsword" 818 1 1 817 60000 100000 DragonLongsword.png
+"Dragon full helm" 819 0 0 820 90000 0 DragonFullHelm.png
+"Dragon full helm" 820 1 1 819 90000 0 DragonFullHelm.png
+"Dragon sq shield" 821 0 0 822 150000 375000 DragonSqShield.png
+"Dragon sq shield" 822 1 1 821 150000 375000 DragonSqShield.png
+"Dragon warhammer" 823 0 0 824 72000 0 DragonWarhammer.png
+"Dragon warhammer" 824 1 1 823 72000 0 DragonWarhammer.png
+"Dragon battleaxe" 825 0 0 826 120000 200000 DragonBattleaxe.png
+"Dragon battleaxe" 826 1 1 825 120000 200000 DragonBattleaxe.png
+"Dragon chainbody" 827 0 0 828 150000 0 DragonChainbody.png
+"Dragon chainbody" 828 1 1 827 150000 0 DragonChainbody.png
+"Dragon 2h sword" 829 0 0 830 132000 0 Dragon2hSword.png
+"Dragon 2h sword" 830 1 1 829 132000 0 Dragon2hSword.png
+"Dragon platelegs" 831 0 0 832 162000 0 DragonPlatelegs.png
+"Dragon platelegs" 832 1 1 831 162000 0 DragonPlatelegs.png
+"Granite shield" 833 0 0 834 33600 0 GraniteShield.png
+"Granite shield" 834 1 1 833 33600 0 GraniteShield.png
+"Bronze knife" 835 1 0 -1 1 1 BronzeKnife.png
+"Iron knife" 836 1 0 -1 2 3 IronKnife.png
+"Steel knife" 837 1 0 -1 20 25 SteelKnife.png
+"Black knife" 838 1 0 -1 21 35 BlackKnife.png
+"Mithril knife" 839 1 0 -1 36 0 MithrilKnife.png
+"Adamant knife" 840 1 0 -1 40 0 AdamantKnife.png
+"Rune knife" 841 1 0 -1 100 0 RuneKnife.png
+"Jade" 842 0 0 843 90 120 Jade.png
+"Jade" 843 1 1 842 90 120 Jade.png
+"Sapphire" 844 0 0 845 150 250 Sapphire.png
+"Sapphire" 845 1 1 844 150 250 Sapphire.png
+"Emerald" 846 0 0 847 300 350 Emerald.png
+"Emerald" 847 1 1 846 300 350 Emerald.png
+"Ruby" 848 0 0 849 600 1500 Ruby.png
+"Ruby" 849 1 1 848 600 1500 Ruby.png
+"Diamond" 850 0 0 851 1200 2000 Diamond.png
+"Diamond" 851 1 1 850 1200 2000 Diamond.png
+"Dragonstone" 852 0 0 853 6000 40000 Dragonstone.png
+"Dragonstone" 853 1 1 852 6000 40000  Dragonstone.png
+"Onyx" 854 0 0 855 180000 1200000 Onyx.png
+"Onyx" 855 1 1 854 180000 1200000 Onyx.png
+"Amulet of accuracy" 856 0 0 857 60 0 AccuracyAmulet.png
+"Amulet of accuracy" 857 1 1 856 60 0 AccuracyAmulet.png
+"Amulet of magic" 858 0 0 859 540 0 MagicAmulet.png
+"Amulet of magic" 859 1 1 858 540 0 MagicAmulet.png
+"Amulet of defense" 860 0 0 861 765 0 DefenseAmulet.png
+"Amulet of defense" 861 1 1 860 765 0 DefenseAmulet.png
+"Amulet of strength" 862 0 0 863 1215 0 StrengthAmulet.png
+"Amulet of strength" 863 1 1 862 1215 0 StrengthAmulet.png
+"Amulet of power" 864 0 0 865 2115 0 PowerAmulet.png
+"Amulet of power" 865 1 1 864 2115 0 PowerAmulet.png
+"Amulet of glory" 866 0 0 867 10575 0 GloryAmulet.png
+"Amulet of glory" 867 1 1 866 10575 0 GloryAmulet.png
+"Amulet of fury" 868 0 0 869 121200 0 FuryAmulet.png
+"Amulet of fury" 869 1 1 868 121200 0 FuryAmulet.png
+"Archers' ring" 870 0 0 871 6000 0 ArcherRing.png
+"Archers' ring" 871 1 1 870 6000 0 ArcherRing.png
+"Berserker ring" 872 0 0 873 6000 0 BerserkerRing.png
+"Berserker ring" 873 1 1 872 60000 0 BerserkerRing.png
+"Seers ring" 874 0 0 875 6000 0 SeerRing.png
+"Seers ring" 875 1 1 874 6000 0 SeerRing.png
+"Warrior ring" 876 0 0 877 6000 0 WarriorRing.png
+"Warrior ring" 877 1 1 876 6000 0 WarriorRing.png
+"Archer helm" 878 0 0 879 36000 78000 ArcherHelm.png
+"Archer helm" 879 1 1 878 36000 78000 ArcherHelm.png
+"Berserker helm" 880 0 0 881 36000 78000 BerserkerHelm.png
+"Berserker helm" 881 1 1 880 36000 78000 BerserkerHelm.png
+"Farseer helm" 882 0 0 883 36000 78000 FarseerHelm.png
+"Farseer helm" 883 1 1 882 36000 78000 FarseerHelm.png
+"Warrior helm" 884 0 0 885 36000 78000 WarriorHelm.png
+"Warrior helm" 885 1 1 884 36000 78000 WarriorHelm.png
+"Helm of neitiznot" 886 0 0 887 30000 50000 HelmOfNeitiznot.png
+"Helm of neitiznot" 887 1 1 886 30000 50000 HelmOfNeitiznot.png
+"Rock-shell helm" 888 0 0 889 21120 0 NULL.png
+"Rock-shell helm" 889 1 1 888 21120 0 NULL.png
+"Rock-shell plate" 890 0 0 891 39000 0 NULL.png
+"Rock-shell plate" 891 1 1 890 39000 0 NULL.png
+"Rock-shell legs" 892 0 0 893 38400 0 NULL.png
+"Rock-shell legs" 893 1 1 892 38400 0 NULL.png
+"Rock-shell gloves" 894 0 0 895 390 0 NULL.png
+"Rock-shell gloves" 895 1 1 894 390 0 NULL.png
+"Rock-shell boots" 896 0 0 897 390 0 NULL.png
+"Rock-shell boots" 897 1 1 896 390 0 NULL.png
+"Spined_helm" 898 0 0 899 36000 0 NULL.png
+"Spined helm" 899 1 1 898 36000 0 NULL.png
+"Spined body" 900 0 0 901 4680 0 NULL.png
+"Spined body" 901 1 1 900 4680 0 NULL.png
+"Spined chaps" 902 0 0 903 2340 0 NULL.png
+"Spined chaps" 903 1 1 902 2340 0 NULL.png
+"Spined gloves" 904 0 0 905 390 0 NULL.png
+"Spined gloves" 905 1 1 904 390 0 NULL.png
+"Spined boots" 906 0 0 907 390 0 NULL.png
+"Spined boots" 907 1 1 906 390 0 NULL.png
+"Skeletal helm" 908 0 0 909 6000 0 NULL.png
+"Skeletal helm" 909 1 1 908 6000 0 NULL.png
+"Skeletal top" 910 0 0 911 27000 0 NULL.png
+"Skeletal top" 911 1 1 910 27000 0 NULL.png
+"Skeletal bottom" 912 0 0 913 24000 0 NULL.png
+"Skeletal bottom" 913 1 1 912 24000 0 NULL.png
+"Skeletal gloves" 914 0 0 915 390 0 NULL.png
+"Skeletal gloves" 915 1 1 914 390 0 NULL.png
+"Skeletal boots" 916 0 0 917 390 0 NULL.png
+"Skeletal boots" 917 1 1 916 390 0 NULL.png
+"Obsidian knife" 918 0 0 919 15000 37500 ObsidianKnife.png
+"Obsidian knife" 919 1 1 918 15000 37500 ObsidianKnife.png
+"Obsidian splitsword" 920 0 0 921 24000 60000 ObsidianSplitsword.png
+"Obsidian splitsword" 921 1 1 920 24000 60000 ObsidianSplitsword.png
+"Obsidian mace" 922 0 0 923 18000 45000 ObsidianMace.png
+"Obsidian mace" 923 1 1 922 18000 50000 ObsidianMace.png
+"Obsidian maul" 924 0 0 925 30000 75000 ObsidianMaul.png
+"Obsidian maul" 925 1 1 924 30000 75000 ObsidianMaul.png
+"Obsidian ring" 926 0 0 927 150 375 ObsidianRing.png
+"Obsidian ring" 927 1 1 926 150 375 ObsidianRing.png
+"Obsidian staff" 928 0 0 929 21000 52500 ObsidianStaff.png
+"Obsidian staff" 929 1 1 928 21000 52500 ObsidianStaff.png
+"Obsidian defender" 930 0 0 931 27000 67500 ObsidianDefender.png
+"Obsidian defender" 931 1 1 930 27000 67500 ObsidianDefender.png
+"Obsidian cape" 932 0 0 933 36000 90000 ObsidianCape.png
+"Obsidian cape" 933 1 1 932 36000 90000 ObsidianCape.png
+"Wizard robe" 934 0 0 935 9 4 WizardRobe.png
+"Wizard robe" 935 1 1 934 9 4 WizardRobe.png
+"Wizard skirt" 936 0 0 937 1 2 WizardSkirt.png
+"Wizard skirt" 937 1 1 936 1 2 WizardSkirt.png
+"Wizard hat" 938 0 0 939 1 2 WizardHat.png
+"Wizard hat" 939 1 1 938 1 2 WizardHat.png
+"God cape" 940 0 0 941 6 23000 GodCape.png
+"God cape" 941 1 1 940 6 23000 GodCape.png
+"Infinity hat" 942 0 0 943 10200 500000 InfinityHat.png
+"Infinity hat" 943 1 1 942 10200 500000 InfinityHat.png
+"Infinity top" 944 0 0 945 84000 4000000 InfinityTop.png
+"Infinity top" 945 1 1 944 84000 4000000 InfinityTop.png
+"Infinity bottom" 946 0 0 947 54000 2600000 InfinityBottom.png
+"Infinity bottom" 947 1 1 946 54000 2600000 InfinityBottom.png
+"Infinity gloves" 948 0 0 949 7200 350000 InfinityGloves.png
+"Infinity gloves" 949 1 1 948 7200 350000 InfinityGloves.png
+"Infinity boots" 950 0 0 951 7200 350000 InfinityBoots.png
+"Infinity boots" 951 1 1 950 7200 350000 InfinityBoots.png
+"Master wand" 952 0 0 953 60000 1000000 MasterWand.png
+"Master wand" 953 1 1 952 60000 1000000 MasterWand.png
+"Mage's book" 954 0 0 955 300 2000000 MagesBook.png
+"Mage's book" 955 1 1 954 300 2000000 MagesBook.png
+"Hardleather gloves" 956 0 0 957 30 65 HardLeatherGloves.png
+"Hardleather gloves" 957 1 1 956 30 65 HardLeatherGloves.png
+"Bronze gloves" 958 0 0 959 60 130 BronzeGloves.png
+"Bronze gloves" 959 1 1 958 60 130 BronzeGloves.png
+"Iron gloves" 960 0 0 961 150 325 IronGloves.png
+"Iron gloves" 961 1 1 960 150 325 IronGloves.png
+"Steel gloves" 962 0 0 963 300 650 SteelGloves.png
+"Steel gloves" 963 1 1 962 300 650 SteelGloves.png
+"Black gloves" 964 0 0 965 600 1300 BlackGloves.png
+"Black gloves" 965 1 1 964 600 1300 BlackGloves.png
+"Mithril gloves" 966 0 0 967 900 1950 MithrilGloves.png
+"Mithril gloves" 967 1 1 966 900 1950 MithrilGloves.png
+"Adamant gloves" 968 0 0 969 1500 3250 AdamantGloves.png
+"Adamant gloves" 969 1 1 968 1500 3250 AdamantGloves.png
+"Rune gloves" 970 0 0 971 3000 6500 RuneGloves.png
+"Rune gloves" 971 1 1 970 3000 6500 RuneGloves.png
+"Dragon gloves" 972 0 0 973 60000 130000 DragonGloves.png
+"Dragon gloves" 973 1 1 972 60000 130000 DragonGloves.png
+"Barrows gloves" 974 0 0 975 60000 130000 BarrowsGloves.png
+"Barrows gloves" 975 1 1 974 60000 130000 BarrowsGloves.png
+"Initiate sallet" 976 0 0 977 3600 6000 InitiateSallet.png
+"Initiate sallet" 977 1 1 976 3600 6000 InitiateSallet.png
+"Initiate hauberk" 978 0 0 979 6000 10000 InitiateHauberk.png
+"Initiate hauberk" 979 1 1 978 6000 10000 InitiateHauberk.png
+"Initiate cuisse" 980 0 0 981 4800 8000 InitiateCuisse.png
+"Initiate cuisse" 981 1 1 980 4800 8000 InitiateCuisse.png
+"Proselyte sallet" 982 0 0 983 4800 8000 ProselyteSallet.png
+"Proselyte sallet" 983 1 1 982 4800 8000 ProselyteSallet.png
+"Proselyte hauberk" 984 0 0 985 7200 12000 ProselyteHauberk.png
+"Proselyte hauberk" 985 1 1 984 7200 12000 ProselyteHauberk.png
+"Proselyte cuisse" 986 0 0 987 6000 10000 ProselyteCuisse.png
+"Proselyte cuisse" 987 1 1 986 6000 10000 ProselyteCuisse.png
+"Holy book" 988 0 0 989 120 5000 HolyBook.png
+"Holy book" 989 1 1 988 120 5000 HolyBook.png
+"Unholy book" 990 0 0 991 120 5000 UnholyBook.png
+"Unholy book" 991 1 1 990 120 5000 UnholyBook.png
+"Book of balance" 992 0 0 993 120 5000 BookOfBalance.png
+"Book of balance" 993 1 1 992 120 5000 BookOfBalance.png
+"Dark bow" 994 0 0 995 72000 0 DarkBow.png
+"Dark bow" 995 1 1 994 72000 0 DarkBow.png
+"Monk's robe top" 996 0 0 997 24 48 MonksRobeTop.png
+"Monk's robe top" 997 1 1 996 24 48 MonksRobeTop.png
+"Monk's robe bottom" 998 0 0 999 18 36 MonksRobeBottom.png
+"Monk's robe bottom" 999 1 1 998 18 36 MonksRobeBottom.png
+"Holy symbol" 1000 0 0 1001 120 240 HolySymbol.png
+"Holy symbol" 1001 1 1 1000 120 240 HolySymbol.png
+"Ahrim's hood" 1016 0 0 1017 68000 0 NULL.png
+"Ahrim's hood" 1017 1 1 1016 68000 0 NULL.png
+"Ahrim's robetop" 1018 0 0 1019 168000 0 NULL.png
+"Ahrim's robetop" 1019 1 1 1018 168000 0 NULL.png
+"Ahrim's robeskirt" 1020 0 0 1021 165000 0 NULL.png
+"Ahrim's robeskirt" 1021 1 1 1020 165000 0 NULL.png
+"Ahrim's staff" 1022 0 0 1023 96000 0 NULL.png
+"Ahrim's staff" 1023 1 1 1022 96000 0 NULL.png
+"Dharok's helm" 1024 0 0 1025 68000 0 NULL.png
+"Dharok's helm" 1025 1 1 1024 68000 0 NULL.png
+"Dharok's platebody" 1026 0 0 1027 168000 0 NULL.png
+"Dharok's platebody" 1027 1 1 1026 168000 0 NULL.png
+"Dharok's platelegs" 1028 0 0 1029 165000 0 NULL.png
+"Dharok's platelegs" 1029 1 1 1028 165000 0 NULL.png
+"Dharok's greataxe" 1030 0 0 1031 96000 0 NULL.png
+"Dharok's greataxe" 1031 1 1 1030 96000 0 NULL.png
+"Guthan's helm" 1032 0 0 1033 68000 0 NULL.png
+"Guthan's helm" 1033 1 1 1032 68000 0 NULL.png
+"Guthan's platebody" 1034 0 0 1035 168000 0 NULL.png
+"Guthan's platebody" 1035 1 1 1034 168000 0 NULL.png
+"Guthan's chainskirt" 1036 0 0 1037 165000 0 NULL.png
+"Guthan's chainskirt" 1037 1 1 1036 165000 0 NULL.png
+"Guthan's warspear" 1038 0 0 1039 96000 0 NULL.png
+"Guthan's warspear" 1039 1 1 1038 96000 0 NULL.png
+"Karil's coif" 1040 0 0 1041 68000 0 NULL.png
+"Karil's coif" 1041 1 1 1040 68000 0 NULL.png
+"Karil's leathertop" 1042 0 0 1043 168000 0 NULL.png
+"Karil's leathertop" 1043 1 1 1042 168000 0 NULL.png
+"Karil's leatherskirt" 1044 0 0 1045 165000 0 NULL.png
+"Karil's leatherskirt" 1045 1 1 1044 165000 0 NULL.png
+"Karil's crossbow" 1046 0 0 1047 96000 0 NULL.png
+"Karil's crossbow" 1047 1 1 1046 96000 0 NULL.png
+"Torag's helm" 1048 0 0 1049 68000 0 NULL.png
+"Torag's helm" 1049 1 1 1048 68000 0 NULL.png
+"Torag's platebody" 1050 0 0 1051 168000 0 NULL.png
+"Torag's platebody" 1051 1 1 1050 168000 0 NULL.png
+"Torag's platelegs" 1052 0 0 1053 165000 0 NULL.png
+"Torag's platelegs" 1053 1 1 1052 165000 0 NULL.png
+"Torag's hammers" 1054 0 0 1055 96000 0 NULL.png
+"Torag's hammers" 1055 1 1 1054 96000 0 NULL.png
+"Verac's helm" 1056 0 0 1057 61800 0 NULL.png
+"Verac's helm" 1057 1 1 1056 61800 0 NULL.png
+"Verac's brassard" 1058 0 0 1059 168000 0 NULL.png
+"Verac's brassard" 1059 1 1 1058 168000 0 NULL.png
+"Verac's plateskirt" 1060 0 0 1061 165000 0 NULL.png
+"Verac's plateskirt" 1061 1 1 1060 165000 0 NULL.png
+"Verac's flail" 1062 0 0 1063 96000 0 NULL.png
+"Verac's flail" 1063 1 1 1062 96000 0 NULL.png
+"Bolt rack" 1064 1 0 -1 30 50 NULL.png
+"Leaf-bladed sword" 1065 0 0 1066 40800 0 LeafBladedSword.png
+"Leaf-bladed sword" 1066 1 1 1065 40800 0 LeafBladedSword.png
